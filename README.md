@@ -1,5 +1,5 @@
 # Utrecht-University-Internship:
-The internship project I did with Jessica Heeman at the Utrecht University titled 'Oculomotor control and eye movements: The effect of reward on express saccades'.
+The internship project I did with Jessica Heeman at the Utrecht University was titled 'Oculomotor control and eye movements: The effect of reward on express saccades'. During this project, I used Python and Psychopy to create an eye-tracking experiment about the influence of rewards on express saccades.
 
 ## What Are Express Saccades?:
 
@@ -23,6 +23,22 @@ Example of Invalid Eye Movement:
 ![image](https://user-images.githubusercontent.com/96383593/170816590-87aee7e2-d931-4eaa-a57d-f901a8fc6f26.png)
 
 ## Results:
+
+There are three conditions in the experiment, the first condition is no reward condition which is the first block of the experiment, the second condition is a low reward condition in which the target appeared on the low reward value side of the screen in the second block and the third condition is high reward condition which target appeared in high reward value side of the screen in the second block. Median Saccadic Reaction Time for all participants in each condition was calculated and used a three-level repeated-measures analysis of variance(ANOVA) with the reward a value as a factor, this analysis shows there is no statistical difference between three conditions with a p-value of 0.945. There is no difference between latency of reaction time of no reward, low reward, and high reward condition. This table shows the Saccadic Reaction Time distribution for all three conditions.
+
+![image](https://user-images.githubusercontent.com/96383593/170818017-8d98eac7-3528-4cfa-834e-1d27f2bc5215.png)
+
+![image](https://user-images.githubusercontent.com/96383593/170818023-f3ada238-86ab-4ea3-ae58-00d94b6458c4.png)
+
+We also applied a three-level repeated-measures analysis of variance(ANOVA) with the reward value as a factor for amplitude. Interestingly there were statistical differences between the three conditions. The post Hoc test showed a statistically significant difference between the No Reward-Low Reward condition and the No Reward-High Reward condition, but the difference is not significant in the Low Reward-High Reward condition.
+
+![image](https://user-images.githubusercontent.com/96383593/170818037-49026cf8-0de5-46e4-b515-b632fabcfa74.png)
+
+![image](https://user-images.githubusercontent.com/96383593/170818040-90cdf0b2-96d5-414c-9c32-72168e669178.png)
+
+![image](https://user-images.githubusercontent.com/96383593/170818044-0079b29b-eaee-4c9d-bf6a-5201ccc75f1f.png)
+
+
 
 
 
